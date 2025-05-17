@@ -31,6 +31,7 @@ Développeur passionné par la création d’applications web dynamiques, access
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-AEC6CF?style=flat&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white)
 
